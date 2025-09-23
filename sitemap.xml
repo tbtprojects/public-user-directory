@@ -1518,16 +1518,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>http://global.gwangju.ac.kr/bbs/board.php?bo_table=g0101&wr_id=982924</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://global.gwangju.ac.kr/bbs/board.php?bo_table=g0101&wr_id=984460</loc>
-    <lastmod>2025-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+ <url>
+  <loc>http://global.gwangju.ac.kr/bbs/board.php?bo_table=g0101&amp;wr_id=982924</loc>
+  <lastmod>2025-09-24</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>http://global.gwangju.ac.kr/bbs/board.php?bo_table=g0101&amp;wr_id=984460</loc>
+  <lastmod>2025-09-24</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+
 </urlset>
